@@ -5,6 +5,8 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class TweetSimilarityTest {
+
+    /*
     public TweetSimilarityTest() {
     }
 
@@ -17,4 +19,6 @@ public class TweetSimilarityTest {
                 ts.similarity(tweet1, tweet2), 0.1);
 
     }
+
+     */
 }
